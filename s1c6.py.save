@@ -1,0 +1,7 @@
+string segment in pythonstring="aviral"
+string=string1.decode("base64")
+for a in range(2,41):
+	string1=string[:a]
+	string2=string[a:2a]
+print string1
+print string2
